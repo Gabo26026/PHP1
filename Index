@@ -1,0 +1,19 @@
+<html>
+
+   <head>
+      <title> Esto es un título</title>
+
+</head>
+
+<body>
+
+   Esto es texto sin etiqueta 
+   <br>Ahora bajamos un renglón. <span> Seguimos escribiendo gracias a la etiqueta de línea. <p> Esto es un nuevo párrafo  lo que implica una etiqueta de bloque.
+<p> Mis películas favoritas son : <p>
+ Inception <br>
+ Real Steel <br>
+ Jumanji ( 1995)
+
+</body>
+
+</html>
